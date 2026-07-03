@@ -17,7 +17,7 @@ Unity menu: **EMG → Build Bundled EMG Backend (no Python for users)**
 Or PowerShell:
 
 ```powershell
-cd "c:\Users\Can\Desktop\UBI\Proje dersi\GithubÖrnek"
+cd path\to\projectGame-Bitalino
 .\tools\build_emg_backend.ps1
 ```
 
