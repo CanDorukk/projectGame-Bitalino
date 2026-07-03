@@ -1,0 +1,24 @@
+# Unity generated
+3DRunner-main/Library/
+3DRunner-main/Logs/
+3DRunner-main/Temp/
+3DRunner-main/Obj/
+3DRunner-main/UserSettings/
+3DRunner-main/Build/
+3DRunner-main/Builds/
+
+# PyInstaller / build outputs
+dist/
+Build/
+Build.rar
+3DRunner-main/Assets/StreamingAssets/EMG/_internal/
+3DRunner-main/Assets/StreamingAssets/EMG/emg_backend.exe
+
+# Test / temp
+test_session/
+_logo_extract/
+*.rar
+*.zip
+
+# Personal
+cursorprompt.md

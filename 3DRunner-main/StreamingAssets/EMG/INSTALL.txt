@@ -1,0 +1,15 @@
+EMG 3D Runner - End user setup
+
+NO Python install needed if emg_backend.exe is in this folder.
+
+1) Turn on BITalino and pair Bluetooth (Windows Device Manager -> COM port).
+2) Run the game (.exe).
+3) EMG backend starts automatically with the game.
+4) Complete calibration, then click Start Game.
+
+If you see NO CONNECTION:
+- BITalino is on and paired
+- Correct COM port was set in Unity before the build
+- emg_backend.exe exists in this folder (next to code.py)
+
+Developers only: EMG > Build Bundled EMG Backend in Unity, then rebuild the game.
